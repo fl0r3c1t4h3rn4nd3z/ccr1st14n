@@ -51,25 +51,25 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     <div class="logo-nav-left">
                         <h1>
                             <a href="index.html">
-                                <span class="fa fa-home"></span>a2z
-                                <span class="logo-title">home services</span>
+                                <span class="fa fa-home"></span><?php print $this->lang->line('a2z')?>
+                                <span class="logo-title"><?php print $this->lang->line('homeservices')?></span>
                             </a>
                         </h1>
                     </div>
 
                     <div class="header-grid-left-wthree">
                         <div class="h3-title">
-                            <h3>contact us</h3>
+                            <h3><?php print $this->lang->line('contactus')?></h3>
                         </div>
                         <ul>
                             <li>
                                 <span class="fa fa-envelope" aria-hidden="true"></span>
-                                <a href="mailto:info@example.com">a2zservices.com</a>
+                                <a href="mailto:<?php print $this->lang->line('info@example.com')?>"><?php print $this->lang->line('a2zservices.com')?></a>
                             </li>
                             <li>
-                                <span class="fa fa-phone" aria-hidden="true"></span>+1234 567 892</li>
+                                <span class="fa fa-phone" aria-hidden="true"></span><?php print $this->lang->line('tel2')?></li>
                             <li>
-                                <span class="fa fa-mobile" aria-hidden="true"></span>+12 234 5678
+                                <span class="fa fa-mobile" aria-hidden="true"></span><?php print $this->lang->line('tel1')?>
                             </li>
                         </ul>
                         <div class="clearfix"> </div>
@@ -82,7 +82,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         <!-- Brand and toggle get grouped for better mobile display -->
                         <div class="navbar-header">
                             <button type="button" class="navbar-toggle collapsed navbar-toggle1" data-toggle="collapse" data-target="#bs-megadropdown-tabs">Menu
-                                <span class="sr-only">Toggle navigation</span>
+                                <span class="sr-only"><?php print $this->lang->line('Togglenavigation')?></span>
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
@@ -92,25 +92,25 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         <div class="collapse navbar-collapse" id="bs-megadropdown-tabs">
                             <ul class="nav navbar-nav">
                                 <li class="active">
-                                    <a href="index.html">Home</a>
+                                    <a href="index.html"><?php print $this->lang->line('Home')?></a>
                                 </li>
                                 <li>
-                                    <a href="about.html">about us</a>
+                                    <a href="about.html"><?php print $this->lang->line('aboutus')?></a>
                                 </li>
                                 <li>
-                                    <a href="services.html">services</a>
+                                    <a href="services.html">services<?php print $this->lang->line('services')?></a>
                                 </li>
                                 <li>
-                                    <a href="projects.html">Projects</a>
+                                    <a href="projects.html"><?php print $this->lang->line('projects')?></a>
                                 </li>
                                 <li>
-                                    <a href="plan.html">plans</a>
+                                    <a href="plan.html"><?php print $this->lang->line('plans')?></a>
                                 </li>
                                 <li>
-                                    <a href="contact.html">contact us</a>
+                                    <a href="contact.html"><?php print $this->lang->line('contactus')?></a>
                                 </li>
                                 <li>
-                                    <a href="status.html">track service status</a>
+                                    <a href="status.html"><?php print $this->lang->line('trackservicestatus')?></a>
                                 </li>
                                 <li class="s-bar">
                                     <div class="search-w3_agileits">

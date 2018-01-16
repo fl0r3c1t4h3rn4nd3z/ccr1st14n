@@ -37,11 +37,40 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$lang['cal_su'] = 'Su';
-$lang['cal_mo'] = 'Mo';
-$lang['cal_tu'] = 'Tu';
-$lang['cal_we'] = 'We';
-$lang['cal_th'] = 'Th';
-$lang['cal_fr'] = 'Fr';
-$lang['cal_sa'] = 'Sa';
+$lang['a2z'] = 'a2z';
+$lang['homeservices'] = 'homeservices';
+$lang['contactus'] = 'contactus';
+$lang['info@example.com'] = 'info@example.com';
+$lang['a2zservices.com'] = 'a2zservices.com';
+$lang['Togglenavigation'] = 'Togglenavigation';
+$lang['Home'] = 'Home';
+$lang['aboutus'] = 'aboutus';
+$lang['projects'] = 'projects';
+$lang['services'] = 'services';
+$lang['plans'] = 'plans';
+$lang['contactus'] = 'contactus';
+$lang['trackservicestatus'] = 'trackservicestatus';
+$lang['tel2'] = 'tel2';
+$lang['tel1'] = 'tel1';
+$lang['ContactInfo'] = 'ContactInfo';
+$lang['address'] = 'address';
+$lang['tel3'] = 'tel3';
+$lang['tel1'] = 'tel1';
+$lang['legal'] = 'legal';
+$lang['service1'] = 'service1';
+$lang['service2'] = 'service2';
+$lang['service3'] = 'service3';
+$lang['latestPosts'] = 'latestPosts';
+$lang['privacypolicy'] = 'privacypolicy';
+$lang['licenceinfo'] = 'licenceinfo';
+$lang['termsofuse'] = 'termsofuse';
+$lang['connectwithus'] = 'connectwithus';
+$lang['facebook'] = '#';
+$lang['dribbble'] = '#';
+$lang['twitter'] = '#';
+$lang['g_plus'] = '#';
+$lang['suscribetitle'] = '#';
+$lang['suscribesubtitle'] = '#';
+$lang['enteremail'] = '#';
+$lang['singup'] = '#';
 
