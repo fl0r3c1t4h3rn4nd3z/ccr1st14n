@@ -22,10 +22,11 @@ class Welcome extends CI_Controller {
     public function __construct() {
         parent::__construct();
         $this->load->helper('form');
-        $this->load->library('havalite');
         $this->load->helper('url');
         $this->load->helper('html');
         $this->load->library('email');
+        //$this->load->library('lang');
+        $this->lang->load('traduccion', 'spanish');
     }
 
     public function index() {

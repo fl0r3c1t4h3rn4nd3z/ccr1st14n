@@ -31,12 +31,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             }
         </script>
         <!-- //for-mobile-apps -->
-        <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+        <link href="<?php echo base_url('assets/a2z/') ?>css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
         <!--banner slider  -->
-        <link href="css/JiSlider.css" rel="stylesheet">
+        <link href="<?php echo base_url('assets/a2z/') ?>css/JiSlider.css" rel="stylesheet">
         <!-- //banner-slider -->
-        <link href="css/font-awesome.css" rel="stylesheet" type="text/css" media="all" />
-        <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+        <link href="<?php echo base_url('assets/a2z/') ?>css/font-awesome.css" rel="stylesheet" type="text/css" media="all" />
+        <link href="<?php echo base_url('assets/a2z/') ?>css/style.css" rel="stylesheet" type="text/css" media="all" />
         <link href="//fonts.googleapis.com/css?family=Noto+Serif:400,400i,700,700i" rel="stylesheet">
         <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i" rel="stylesheet">
 

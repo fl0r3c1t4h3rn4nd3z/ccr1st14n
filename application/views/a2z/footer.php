@@ -8,10 +8,10 @@
 ?>
 <!--//footer  -->
 	<!-- js -->
-	<script src="js/jquery-2.2.3.min.js"></script>
+	<script src="<?php echo base_url('assets/a2z/') ?>js/jquery-2.2.3.min.js"></script>
 	<!-- //js-->
 	<!--banner-slider-->
-	<script src="js/JiSlider.js"></script>
+	<script src="<?php echo base_url('assets/a2z/') ?>js/JiSlider.js"></script>
 	<script> 
 		$(window).load(function () {
 			$('#JiSlider').JiSlider({
@@ -23,11 +23,11 @@
 	</script>
 	<!-- //banner-slider -->
 	<!--search-bar-->
-	<script src="js/main.js"></script>
+	<script src="<?php echo base_url('assets/a2z/') ?>js/main.js"></script>
 	<!--//search-bar-->
 	<!-- start-smooth-scrolling -->
-	<script  src="js/move-top.js"></script>
-	<script  src="js/easing.js"></script>
+	<script  src="<?php echo base_url('assets/a2z/') ?>js/move-top.js"></script>
+	<script  src="<?php echo base_url('assets/a2z/') ?>js/easing.js"></script>
 	<script> 
 		jQuery(document).ready(function ($) {
 			$(".scroll").click(function (event) {
@@ -58,11 +58,11 @@
 
 		});
 	</script>
-	<script  src="js/SmoothScroll.min.js"></script>
+	<script  src="<?php echo base_url('assets/a2z/') ?>js/SmoothScroll.min.js"></script>
 	<!-- Bootstrap core JavaScript
     ================================================== -->
 	<!-- Placed at the end of the document so the pages load faster -->
-	<script src="js/bootstrap.js"></script>
+	<script src="<?php echo base_url('assets/a2z/') ?>js/bootstrap.js"></script>
 </body>
 
 </html>
