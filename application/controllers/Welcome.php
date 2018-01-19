@@ -31,8 +31,9 @@ class Welcome extends CI_Controller {
 
     public function index() {
         //	$this->load->view('welcome_message');
-        $this->load->view('a2z/header.php');
-        $this->load->view('a2z/footer.php');
+        $this->load->view('city_taxy/header.php');
+        
+        $this->load->view('city_taxy/footer.php');
     }
 
 }

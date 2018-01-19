@@ -37,6 +37,7 @@
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
+$lang['home'] = 'Inicio';
 $lang['a2z'] = 'a2z';
 $lang['homeservices'] = 'homeservices';
 $lang['contactus'] = 'contactus';
