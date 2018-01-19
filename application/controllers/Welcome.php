@@ -32,8 +32,20 @@ class Welcome extends CI_Controller {
     public function index() {
         //	$this->load->view('welcome_message');
         $this->load->view('city_taxy/header.php');
-        
+        //inicializo el arreglo
+        $out=array();
+        //cargo las imagenes
+        $out['images']=array('logo.jpg');
+        $this->load->view('city_taxy/banner.php',$out);
         $this->load->view('city_taxy/footer.php');
+        
     }
-
+    function about() {
+        $this->load->view('city_taxy/header.php');
+      $this->load->view('city_taxy/about.php');
+        //inicializo el arreglo
+        
+        
+        //$this->load->view('city_taxy/footer.php');  
+    }
 }
