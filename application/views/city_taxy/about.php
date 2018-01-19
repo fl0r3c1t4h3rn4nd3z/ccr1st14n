@@ -11,11 +11,11 @@
 		<div class="about-us">
 			<div class="wrap">
 				<div class="about-header">
-					<h3>About City taxi</h3>
+					<h3>Quienes Somos</h3>
 					<div class="clear"> </div>
 				</div>
 				<div class="about-info">
-					<a href="#">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent vestibulum molestie lacus.</a>
+					<!--<a href="#">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent vestibulum molestie lacus.</a>-->
 					<p>Somos una empresa de la ciudad de Popayán creada con el fin de satisfacer las necesidades de mantenimiento y servicios integrales de los hogares Payaneses, puesto que actualmente es muy dificil encontrar un servicio seguro, efectivo y de calidad.
 
 DON REPARADOR pretende posicionarse como la empresa mas seria e importante de servicios integrales en la ciudad.

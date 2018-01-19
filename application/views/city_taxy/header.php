@@ -15,7 +15,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <html>
 
     <head>
-        <title>CITY TAXI a Auto mobile Category Website Template | Home :: W3layouts</title>
+        <title>Don Reparador Popayan</title>
         <link href="<?php print base_url('assets/city_taxy/') ?>css/style.css" rel="stylesheet" type="text/css" media="all" />
         <link href='//fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
         <link href="<?php print base_url('assets/city_taxy/') ?>css/slider.css" rel="stylesheet" type="text/css" media="all" />
@@ -50,16 +50,18 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="wrap">
                 <!---start-logo---->
                 <div class="logo">
-                    <a href="index.html"><img src="<?php print base_url('assets/city_taxy/') ?>images/logo1.png" title="logo" /></a>
+                    <a href="index.html"><img src="<?php print base_url('assets/city_taxy/') ?>images/logo_1.png" title="logo" /></a>
                 </div>
                 <!---End-logo---->
                 <!---start-top-nav---->
                 <div class="top-nav">
                     <ul>
-                        <li class="active"><a href="index.html"><?php print $this->lang->line('home')?></a></li>
-                        <li><a href="about.html">About</a></li>
+                        <li class="active"><a href="<?php print site_url('welcome/index')?>"><?php print $this->lang->line('home')?></a></li>
+                        <li><a href="<?php print site_url('welcome/about')?>">Quienes Somos</a></li>
+<!--                        aca es la para url de otras-->
+                        
                         <li><a href="whatwe.html">What we do</a></li>
-                        <li><a href="services.html">Services</a></li>
+                        <li><a href="services.html">Servicios</a></li>
                         <li><a href="contact.html">Contact</a></li>
                         <div class="clear"> </div>
                     </ul>

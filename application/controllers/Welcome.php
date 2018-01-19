@@ -35,7 +35,7 @@ class Welcome extends CI_Controller {
         //inicializo el arreglo
         $out=array();
         //cargo las imagenes
-        $out['images']=array('logo.jpg');
+        $out['images']=array('logo.jpg','imagen2.jpg','imagen3.jpg');
         $this->load->view('city_taxy/banner.php',$out);
         $this->load->view('city_taxy/footer.php');
         
