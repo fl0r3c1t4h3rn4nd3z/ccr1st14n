@@ -69,8 +69,8 @@ $lang['facebook'] = '#';
 $lang['dribbble'] = '#';
 $lang['twitter'] = '#';
 $lang['g_plus'] = '#';
-$lang['suscribetitle'] = '#';
-$lang['suscribesubtitle'] = '#';
-$lang['enteremail'] = '#';
+$lang['suscribetitle'] = 'suscribetitle';
+$lang['suscribesubtitle'] = 'suscribesubtitle';
+$lang['enteremail'] = 'enteremail';
 $lang['singup'] = '#';
 
