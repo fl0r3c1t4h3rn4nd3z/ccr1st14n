@@ -58,11 +58,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     <ul>
                         <li class="active"><a href="<?php print site_url('welcome/index')?>"><?php print $this->lang->line('home')?></a></li>
                         <li><a href="<?php print site_url('welcome/about')?>">Quienes Somos</a></li>
+                        
 <!--                        aca es la para url de otras-->
                         
-                        <li><a href="whatwe.html">What we do</a></li>
+                        <li><a href="<?php print site_url('welcome/whatwedo')?>">Que Hacemos</a></li>
                         <li><a href="services.html">Servicios</a></li>
-                        <li><a href="contact.html">Contact</a></li>
+                        <li><a href="contact.html">Contactenos</a></li>
                         <div class="clear"> </div>
                     </ul>
                 </div>

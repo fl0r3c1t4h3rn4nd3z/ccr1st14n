@@ -48,4 +48,10 @@ class Welcome extends CI_Controller {
         
         //$this->load->view('city_taxy/footer.php');  
     }
+    function whatwedo()
+    {
+      $this->load->view('city_taxy/header.php');
+      $this->load->view('city_taxy/whatwedo.php');  
+        
+    }
 }
