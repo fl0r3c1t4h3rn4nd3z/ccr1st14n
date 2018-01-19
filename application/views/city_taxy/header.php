@@ -50,7 +50,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="wrap">
                 <!---start-logo---->
                 <div class="logo">
-                    <a href="index.html"><img src="<?php print base_url('assets/city_taxy/') ?>images/logo_1.png" title="logo" /></a>
+                    <a href="index.html"><img src="<?php print base_url('assets/city_taxy/') ?>images/facep_1.png" title="logo" /></a>
                 </div>
                 <!---End-logo---->
                 <!---start-top-nav---->
@@ -62,7 +62,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!--                        aca es la para url de otras-->
                         
                         <li><a href="<?php print site_url('welcome/whatwedo')?>">Que Hacemos</a></li>
-                        <li><a href="services.html">Servicios</a></li>
+                        <li><a href="<?php print site_url('welcome/services')?>">Servicios</a></li>
                         <li><a href="contact.html">Contactenos</a></li>
                         <div class="clear"> </div>
                     </ul>
