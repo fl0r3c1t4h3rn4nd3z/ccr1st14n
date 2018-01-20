@@ -24,28 +24,28 @@ agradecemos de antemano su visita a nuestro sitio web y la confianza depositada 
 				</div>
 				<div class="specials">
 					<div class="specials-heading">
-						<h3>Latest-News</h3>
+						<h3>Equipo de Trabajo</h3>
 						<div class="clear"> </div>
 					</div>
 					<div class="clear"> </div>
 					<div class="specials-grids">
 						<div class="special-grid">
-							<img src="<?php print base_url('assets/city_taxy/') ?>images/slider2.jpg" title="image-name">
-							<a href="#">Latest Plans</a>
-							<p>Lorem ipsum dolor sit amet consectetur adiing elit. In volutpat luctus eros ac placerat. Quisque erat metus facilisis
-								non feu,aliquam hendrerit quam. Donec ut lectus vel dolor adipiscing tincnt.</p>
+							<img src="<?php print base_url('assets/city_taxy/') ?>images/tres.jpg" title="image-name">
+<!--							<a href="#">Latest Plans</a>-->
+<!--							<p>Lorem ipsum dolor sit amet consectetur adiing elit. In volutpat luctus eros ac placerat. Quisque erat metus facilisis
+								non feu,aliquam hendrerit quam. Donec ut lectus vel dolor adipiscing tincnt.</p>-->
 						</div>
 						<div class="special-grid">
-							<img src="<?php print base_url('assets/city_taxy/') ?>images/slider1.jpg" title="image-name">
-							<a href="#">Pre Plans</a>
-							<p>Lorem ipsum dolor sit amet consectetur adiing elit. In volutpat luctus eros ac placerat. Quisque erat metus facilisis
-								non feu,aliquam hendrerit quam. Donec ut lectus vel dolor adipiscing tincnt.</p>
+							<img src="<?php print base_url('assets/city_taxy/') ?>images/tres.jpg" title="image-name">
+<!--							<a href="#">Pre Plans</a>-->
+<!--							<p>Lorem ipsum dolor sit amet consectetur adiing elit. In volutpat luctus eros ac placerat. Quisque erat metus facilisis
+								non feu,aliquam hendrerit quam. Donec ut lectus vel dolor adipiscing tincnt.</p>-->
 						</div>
 						<div class="special-grid spe-grid">
-							<img src="<?php print base_url('assets/city_taxy/') ?>images/slider4.jpg" title="image-name">
-							<a href="#">Free Plans</a>
-							<p>Lorem ipsum dolor sit amet consectetur adiing elit. In volutpat luctus eros ac placerat. Quisque erat metus facilisis
-								non feu,aliquam hendrerit quam. Donec ut lectus vel dolor adipiscing tincnt.</p>
+							<img src="<?php print base_url('assets/city_taxy/') ?>images/tres.jpg" title="image-name">
+<!--							<a href="#">Free Plans</a>-->
+<!--							<p>Lorem ipsum dolor sit amet consectetur adiing elit. In volutpat luctus eros ac placerat. Quisque erat metus facilisis
+								non feu,aliquam hendrerit quam. Donec ut lectus vel dolor adipiscing tincnt.</p>-->
 						</div>
 						<div class="clear"> </div>
 					</div>
